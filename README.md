@@ -11,7 +11,7 @@ waiting results
 [MEDIUM] [Club's owner can mint an additional player per season bypassing the limits](https://github.com/sherlock-audit/2023-04-footium-judging/blob/1004d6d4580bab6ee1e84f67f1a94417e93955b3/005-H/324.md "https://github.com/sherlock-audit/2023-04-footium-judging/blob/1004d6d4580bab6ee1e84f67f1a94417e93955b3/005-H/324.md")
 
 ## 2023_05_dodo-margin-trading_sherlock
-[HIGHT] [A Potential "Griefing" Attack Could Drain Funds from `MarginTrading` Contract](https://github.com/sherlock-audit/2023-05-dodo-judging/blob/af9c070f1aa3c7f48a467a60947275926333d584/001-H/191.md "https://github.com/sherlock-audit/2023-05-dodo-judging/blob/af9c070f1aa3c7f48a467a60947275926333d584/001-H/191.md")
+[HIGH] [A Potential "Griefing" Attack Could Drain Funds from `MarginTrading` Contract](https://github.com/sherlock-audit/2023-05-dodo-judging/blob/af9c070f1aa3c7f48a467a60947275926333d584/001-H/191.md "https://github.com/sherlock-audit/2023-05-dodo-judging/blob/af9c070f1aa3c7f48a467a60947275926333d584/001-H/191.md")
 
 ## 2023_05_aavev3-atoken_certora
 waiting results
