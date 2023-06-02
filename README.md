@@ -4,7 +4,7 @@ waiting results
 ## 2023_04_rubicon-v2_code4rena
 waiting results
 
-## 2023_04-splits_sherlock
+## 2023_04_splits_sherlock
 [MEDIUM] [The potential to bypass the SwapperFactory.isSwapper() check may lead to a loss of funds](https://github.com/sherlock-audit/2023-04-splits-judging/blob/15ed1328bed52511a772aeb1a8607db1bcf11163/006-H/147.md "https://github.com/sherlock-audit/2023-04-splits-judging/blob/15ed1328bed52511a772aeb1a8607db1bcf11163/006-H/147.md")
 
 ## 2023_05_footium_sherlock
